@@ -77,4 +77,4 @@ This project is open-source and free to use for learning and educational purpose
 
 ## 🔗 Project URL
 
-[GitHub Repository][(https://github.com/Hrant-Ispiryan/TaskTrackerCLI.git))]
+[(https://roadmap.sh/projects/task-tracker)]

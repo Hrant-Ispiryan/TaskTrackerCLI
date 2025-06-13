@@ -74,3 +74,7 @@ Tasks are stored in tasks.json like this:
 ## 📃 License
 
 This project is open-source and free to use for learning and educational purposes.
+
+## 🔗 Project URL
+
+[GitHub Repository]((https://github.com/Hrant-Ispiryan/TaskTrackerCLI))]
